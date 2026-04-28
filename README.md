@@ -31,6 +31,8 @@ This project allows users to manage products with full CRUD operations.
 - Mock API (MockAPI.io)
 
 ---
+![image alt](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%203.png)
+![image alt](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%201.png)
 
 ## 📦 Setup Instructions (Step-by-Step)
 
@@ -61,10 +63,3 @@ npm run dev
 After starting the server, open:
 
 http://localhost:3000
-
-
-<img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/14c49c72-86e4-4b92-87ab-bcefb095f7d2" />
-![image alt](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%203.png)
-![image alt](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%202.png)
-![image alt](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%201.png)
-
