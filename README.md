@@ -4,6 +4,7 @@ A simple and responsive Product Management Dashboard built with **Next.js**, **T
 This project allows users to manage products with full CRUD operations.
 
 ---
+<img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/14c49c72-86e4-4b92-87ab-bcefb095f7d2" />
 
 ## 🚀 Features
 
