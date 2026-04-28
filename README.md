@@ -62,8 +62,8 @@ After starting the server, open:
 http://localhost:3000
 
 
-![](images/product dashboard 1.png)
-![](images/product dashboard 2.png)
-![](images/product dashboard 3.png)
-![](images/product dashboard 4.png)
+![image alt]([images/product dashboard 1.png](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%204.png))
+![image alt]([images/product dashboard 2.png](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%203.png))
+![image alt]([images/product dashboard 3.png](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%202.png))
+![image alt]([images/product dashboard 4.png](https://github.com/tubarzzy/my-product-dashboard/blob/d9c6e6d332aff6678d0b30dec3e59f917115666d/images/product%20dashboard%201.png))
 
