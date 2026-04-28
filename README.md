@@ -31,9 +31,32 @@ This project allows users to manage products with full CRUD operations.
 
 ---
 
-## 📦 Setup Instructions
+## 📦 Setup Instructions (Step-by-Step)
 
-### 1. Clone the repository
+Follow these steps carefully to run the project locally:
+
+---
+
+**1. Clone the repository**
+
+Open your terminal and run:
 
 ```bash
-git clone https://github.com/tubarzzy/my-product-dashboard.git
+git clone https://github.com/YOUR_USERNAME/my-product-dashboard.git
+
+
+**2. Move into the project folder**
+cd my-product-dashboard
+
+**3. Install dependencies**
+
+Make sure you have Node.js installed, then run:
+npm install
+
+**4. Start the development server**
+npm run dev
+
+**5. Open in browser**
+After starting the server, open:
+
+http://localhost:3000
