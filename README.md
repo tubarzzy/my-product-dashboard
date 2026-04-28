@@ -60,3 +60,11 @@ npm run dev
 After starting the server, open:
 
 http://localhost:3000
+
+
+<img width="1919" height="979" alt="product dashboard 4" src="https://github.com/user-attachments/assets/7ce01356-3417-4dab-b1f5-eb0b2164fff7" />
+<img width="1919" height="945" alt="product dashboard 3" src="https://github.com/user-attachments/assets/57b529c2-74da-4c0b-b128-93587241614f" />
+<img width="1916" height="991" alt="product dashboard 2" src="https://github.com/user-attachments/assets/85817038-83f6-489e-a413-677c9f36d2ba" />
+<img width="1919" height="988" alt="product dashboard 1" src="https://github.com/user-attachments/assets/d29f3721-a87a-4a10-acb8-4e3fe911d515" />
+
+
